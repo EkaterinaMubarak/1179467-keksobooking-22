@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Ekaterina Mubarakova](https://up.htmlacademy.ru/javascript/22/user/1179467).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Белик](https://htmlacademy.ru/profile/id84572).
 
 ---
 
